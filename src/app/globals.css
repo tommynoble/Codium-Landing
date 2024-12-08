@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 :root {
+  --header-height: 80px;
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -15,6 +16,7 @@
 }
 
 body {
+  min-height: 100vh;
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;

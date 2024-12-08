@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="35" viewBox="0 0 80 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 5C31.716 5 25 11.716 25 20C25 28.284 31.716 35 40 35C48.284 35 55 28.284 55 20C55 11.716 48.284 5 40 5ZM40 30C34.477 30 30 25.523 30 20C30 14.477 34.477 10 40 10C45.523 10 50 14.477 50 20C50 25.523 45.523 30 40 30Z" fill="white"/>
+  <text x="15" y="23" font-family="Arial" font-weight="bold" font-size="16" fill="white">DELL</text>
+</svg>
